@@ -1,0 +1,2 @@
+This is my first time using git and GitHub.
+I hope it all goes well.
